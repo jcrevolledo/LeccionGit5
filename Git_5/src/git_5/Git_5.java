@@ -17,11 +17,14 @@ public class Git_5 {
     public static void main(String[] args) {
         // Primera aplicacion
     }
-    
+    public void Juanca_Branch_A(){
+        System.out.println("Nuevo Branch desde A");
+    }
     public void Nombre(){
     
         System.out.println("Frank");
     }
+    
     public void Frank_branch(){
         System.out.println("Frank_branch");
     }
