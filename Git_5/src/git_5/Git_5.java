@@ -17,5 +17,7 @@ public class Git_5 {
     public static void main(String[] args) {
         // Primera aplicacion
     }
-    
+    public void Juanca_Branch_A(){
+        System.out.println("Nuevo Branch desde A");
+    }
 }
