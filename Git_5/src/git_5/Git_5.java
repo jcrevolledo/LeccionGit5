@@ -22,5 +22,7 @@ public class Git_5 {
     
         System.out.println("Frank");
     }
-    
+    public void Frank_branch(){
+        System.out.println("Frank_branch");
+    }
 }
