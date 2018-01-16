@@ -18,4 +18,9 @@ public class Git_5 {
         // Primera aplicacion
     }
     
+    public void Nombre(){
+    
+        System.out.println("Frank");
+    }
+    
 }
